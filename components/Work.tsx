@@ -302,22 +302,28 @@ export default function Work() {
               </h3>
   
               <p className="mt-5 max-w-2xl text-[0.98rem] leading-7 text-[var(--foreground-muted)]">
-                Built and evaluated machine-learning models for predicting
-                academic performance from behavioral and academic data, using
-                model comparison, performance metrics, and feature-importance
-                analysis to understand predictive outcomes.
+                BuiltDeveloped an end-to-end machine-learning system for predicting student 
+                academic performance using Decision Tree and Random Forest regression, 
+                model comparison, cross-validation, and hyperparameter tuning. 
+                Built an interactive Streamlit application around the final Random 
+                Forest model, achieving an R² of 0.81 and MAE of 1.17 grade points on 
+                held-out data.
               </p>
   
               <div className="mt-8 flex flex-wrap gap-6 text-sm">
                 <a
-                  href="#"
+                  href="https://student-performance-forecast.streamlit.app/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="font-medium transition hover:text-[var(--accent-soft)]"
                 >
                   View Project ↗
                 </a>
   
                 <a
-                  href="#"
+                  href="https://github.com/muralikarthik7/student-performance-prediction/"
+                  target="_blank"
+                  rel="noopener noreferrer"
                   className="text-[var(--foreground-muted)] transition hover:text-[var(--foreground)]"
                 >
                   GitHub ↗
