@@ -83,7 +83,7 @@ export default function Overview() {
               <span className="section-label">Murali Karthik Ganji</span>
 
               <span className="font-mono text-[0.7rem] uppercase tracking-[0.12em] text-[var(--foreground-subtle)]">
-                Tucson, AZ
+                Hyderabad, IN
               </span>
             </div>
           </div>
