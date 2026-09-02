@@ -1,14 +1,14 @@
-export default function Work() {
+export default function Projects() {
     return (
       <section
-        id="work"
+        id="projects"
         className="border-t border-[var(--border)] pt-10 pb-24 sm:pt-12 sm:pb-32"
       >
         {/* Section Header */}
         <div className="flex items-center gap-3">
           <span className="h-px w-8 bg-[var(--accent)]" />
   
-          <span className="section-label">03 / Selected Work</span>
+          <span className="section-label">04 / Projects</span>
         </div>
   
         <div className="mt-10 grid gap-8 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16">

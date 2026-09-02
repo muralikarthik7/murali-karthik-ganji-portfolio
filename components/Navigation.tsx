@@ -22,10 +22,17 @@ export default function Navigation() {
             </a>
 
             <a
-              href="#work"
+              href="#experience"
               className="transition hover:text-[var(--foreground)]"
             >
-              Work
+              Experience
+            </a>
+
+            <a
+              href="#projects"
+              className="transition hover:text-[var(--foreground)]"
+            >
+              Projects
             </a>
 
             <a
@@ -33,13 +40,6 @@ export default function Navigation() {
               className="transition hover:text-[var(--foreground)]"
             >
               Research
-            </a>
-
-            <a
-              href="#experience"
-              className="transition hover:text-[var(--foreground)]"
-            >
-              Experience
             </a>
 
             <a
