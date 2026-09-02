@@ -80,7 +80,7 @@ export default function Overview() {
             </div>
 
             <div className="flex items-center justify-between border-x border-b border-[var(--border-light)] px-4 py-3">
-              <span className="section-label">01 / Profile</span>
+              <span className="section-label">Murali Karthik Ganji</span>
 
               <span className="font-mono text-[0.7rem] uppercase tracking-[0.12em] text-[var(--foreground-subtle)]">
                 Tucson, AZ
