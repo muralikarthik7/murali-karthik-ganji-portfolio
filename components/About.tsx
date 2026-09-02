@@ -7,7 +7,7 @@ export default function About() {
         <div className="flex flex-col gap-7">
           <div className="flex items-center gap-3">
             <span className="h-px w-8 bg-[var(--accent)]" />
-            <span className="section-label">02 / About</span>
+            <span className="section-label">About</span>
           </div>
   
           <div className="w-full">

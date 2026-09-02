@@ -8,7 +8,7 @@ export default function Projects() {
         <div className="flex items-center gap-3">
           <span className="h-px w-8 bg-[var(--accent)]" />
   
-          <span className="section-label">04 / Projects</span>
+          <span className="section-label">Projects</span>
         </div>
   
         <div className="mt-10 grid gap-8 lg:grid-cols-[0.85fr_1.15fr] lg:gap-16">

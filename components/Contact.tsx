@@ -9,7 +9,7 @@ export default function Contact() {
         ========================================================== */}
         <div className="flex items-center gap-3">
           <span className="h-px w-8 bg-[var(--accent)]" />
-          <span className="section-label">06 / Contact</span>
+          <span className="section-label">Contact</span>
         </div>
   
         {/* =========================================================
